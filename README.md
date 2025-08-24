@@ -1,5 +1,94 @@
-# Garret Katayama
+# 👋 Hi, I'm [Garret Katayama]
 
-## About Me
+🚀 **AI Development Engineer** | 🎓 Computer Science | 💡 Passionate about AI, ML, and Scalable Systems  
 
-## Skills
+---
+
+## 🧑‍💻 About Me
+I'm an AI Development Engineer with experience building intelligent systems, deploying machine learning models, and integrating AI solutions into production.  
+
+My interests include:
+- 🤖 Artificial Intelligence & Machine Learning  
+- 🧩 Deep Learning & Natural Language Processing  
+- ☁️ Cloud-based AI Deployment  
+- ⚡ High-performance & scalable systems  
+
+I enjoy solving challenging problems at the intersection of **CS fundamentals and cutting-edge AI research**.
+
+---
+
+## 🔧 Skills
+
+**Languages**  
+- Python, C, C++, Java, JavaScript, SQL  
+
+**AI/ML Frameworks**  
+- LangChain/LangGraph, Keras, TensorFlow, PyTorch  
+
+**Tools & Platforms**  
+- Docker, Git, GitHub Actions, Linux  
+- GCP, Azure 
+
+**Other**  
+- Data Structures & Algorithms  
+- REST APIs & Backend Development  
+
+---
+
+## 📂 Projects
+
+### [🧠 AI-Powered Chatbot](https://github.com/yourusername/chatbot-project)
+A conversational AI assistant built with **Transformer-based NLP models** (Hugging Face), deployed with **FastAPI + Docker**, and integrated with **Slack**.  
+- **Tech Stack:** Python, Hugging Face, FastAPI, Docker  
+- **Highlights:** Multi-turn conversation support, context retention  
+
+---
+
+### [📊 ML Model Deployment Pipeline](https://github.com/yourusername/ml-deployment-pipeline)
+An **end-to-end machine learning deployment pipeline** that automates model training, validation, and CI/CD deployment to cloud services.  
+- **Tech Stack:** Python, scikit-learn, GitHub Actions, AWS Lambda  
+- **Highlights:** Automated retraining with new data  
+
+---
+
+### [👁️ Computer Vision Object Detector](https://github.com/yourusername/cv-object-detector)
+A real-time **object detection system** trained on a custom dataset, optimized for **edge devices**.  
+- **Tech Stack:** PyTorch, OpenCV, ONNX  
+- **Highlights:** Model quantization for faster inference  
+
+---
+
+## 📜 Experience
+
+**AI Development Engineer** — *[Company Name]*  
+*MM/YYYY – Present*  
+- Developed, optimized, and deployed ML models for [domain/task].  
+- Worked on production-grade AI systems integrating with [cloud platform or product].  
+- Improved inference latency by X% and model accuracy by Y%.  
+
+**CS Teaching Assistant** — *[University Name]*  
+*MM/YYYY – MM/YYYY*  
+- Assisted in teaching **Data Structures, Algorithms, and AI courses**.  
+- Mentored students and graded assignments/projects.  
+
+---
+
+## 🎓 Education
+
+**B.Sc. Computer Science** — *[Pacific University]*  
+*MM/YYYY – MM/YYYY*  
+- Relevant coursework: Artificial Intelligence, Machine Learning, Data Structures & Algorithms, Operating Systems, Databases  
+
+---
+
+## 📬 Get in Touch
+
+- 🌐 [Portfolio Website](https://garretsk.github.io)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/garret-katayama/) 
+- 🐙 [GitHub](https://github.com/yourusername)  
+- ✉️ Email: garret.katayama@gmail.com
+
+---
+
+💡 *“Building AI that empowers people and scales with technology.”*
+
