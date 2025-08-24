@@ -60,9 +60,7 @@ A real-time **object detection system** trained on a custom dataset, optimized f
 
 **Cerium Networks** — *AI Development Engineer*  
 Jan 2025 – Present*  
-- Developed, optimized, and deployed ML models for [domain/task].  
-- Worked on production-grade AI systems integrating with [cloud platform or product].  
-- Improved inference latency by X% and model accuracy by Y%.  
+- Software development focusing on AI integrations  
 
 ---
 
