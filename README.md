@@ -45,24 +45,21 @@ I enjoy solving challenging problems at the intersection of **CS fundamentals an
 
 ## 📂 Projects
 
-### [🧠 AI-Powered Chatbot](https://github.com/yourusername/chatbot-project)
-A conversational AI assistant built with **Transformer-based NLP models** (Hugging Face), deployed with **FastAPI + Docker**, and integrated with **Slack**.  
-- **Tech Stack:** Python, Hugging Face, FastAPI, Docker  
-- **Highlights:** Multi-turn conversation support, context retention  
+### 📊 Financial Data Processing
+Responsible for implementing transform and load aspects of an ETL pipeline. Reduced processing time for the transform step of a particularly large relation from 2 days to 20 minutes using multiprocessing and batching of inefficient operations.  
+- **Tech Stack:** Python, SQL  
 
 ---
 
-### [📊 ML Model Deployment Pipeline](https://github.com/yourusername/ml-deployment-pipeline)
-An **end-to-end machine learning deployment pipeline** that automates model training, validation, and CI/CD deployment to cloud services.  
-- **Tech Stack:** Python, scikit-learn, GitHub Actions, AWS Lambda  
-- **Highlights:** Automated retraining with new data  
+### 🧠 AI Command Line Assistant
+Developed a Retrieval Augmented Generation and tooling AI agent to assist with Linux command line activities. The AI agent was developed using LangChain and given access to tools that safely allowed it to assist with code execution and development, command execution, hash cracking, network mapping, and other command line activities.  
+- **Tech Stack:** Python, LangChain, Linux  
 
 ---
 
-### [👁️ Computer Vision Object Detector](https://github.com/yourusername/cv-object-detector)
-A real-time **object detection system** trained on a custom dataset, optimized for **edge devices**.  
-- **Tech Stack:** PyTorch, OpenCV, ONNX  
-- **Highlights:** Model quantization for faster inference  
+### 👁️ Neural Net for Collision Detection
+Trained a neural net with PyTorch to detect imminent collisions and safely maneuver a robot through a simulated Pymunk environment.  
+- **Tech Stack:** Python, PyTorch  
 
 ---
 
