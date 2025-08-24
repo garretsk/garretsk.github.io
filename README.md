@@ -60,16 +60,11 @@ A real-time **object detection system** trained on a custom dataset, optimized f
 
 ## 📜 Experience
 
-**AI Development Engineer** — *[Company Name]*  
-*MM/YYYY – Present*  
+**Cerium Networks** — *[AI Development Engineer]*  
+*01/2025 – Present*  
 - Developed, optimized, and deployed ML models for [domain/task].  
 - Worked on production-grade AI systems integrating with [cloud platform or product].  
 - Improved inference latency by X% and model accuracy by Y%.  
-
-**CS Teaching Assistant** — *[University Name]*  
-*MM/YYYY – MM/YYYY*  
-- Assisted in teaching **Data Structures, Algorithms, and AI courses**.  
-- Mentored students and graded assignments/projects.  
 
 ---
 
