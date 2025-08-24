@@ -19,8 +19,7 @@ I enjoy solving challenging problems at the intersection of **CS fundamentals an
 
 **Languages**  
 - Python
-- C
-- C++
+- C/C++
 - Java
 - JavaScript
 - SQL  
