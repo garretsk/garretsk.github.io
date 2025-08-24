@@ -59,7 +59,7 @@ A real-time **object detection system** trained on a custom dataset, optimized f
 ## 📜 Experience
 
 **Cerium Networks** — *AI Development Engineer*  
-January 2025 – Present*  
+Jan 2025 – Present*  
 - Developed, optimized, and deployed ML models for [domain/task].  
 - Worked on production-grade AI systems integrating with [cloud platform or product].  
 - Improved inference latency by X% and model accuracy by Y%.  
@@ -70,7 +70,9 @@ January 2025 – Present*
 
 **Pacific University** — *Computer Science*  
 *Class of 2022*
-- Relevant coursework: Artificial Intelligence, Machine Learning, Data Structures & Algorithms, Operating Systems, Databases  
+*Major:* Computer Science
+*Minor:* Mathematics
+*Awards:* Founder’s Scholarship (highest academic merit scholarship offered), ITA Scholar Athlete, Dean’s List
 
 ---
 
