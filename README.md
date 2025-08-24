@@ -1,4 +1,4 @@
-🚀 **AI Development Engineer @ Cerium** | 🎓 Computer Science  
+🚀 **AI Development Engineer @ Cerium** | 🎓 **Computer Science**  
 
 ---
 
