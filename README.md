@@ -94,5 +94,5 @@ Computer science graduate student. Maintained a 4.0 GPA. Learned a lot about AI/
 ## 📬 Get in Touch
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/garret-katayama/) 
-- 🐙 [GitHub](https://github.com/yourusername)  
+- 🐙 [GitHub](https://github.com/garretsk)  
 - 🌐 [Portfolio](https://garretsk.github.io)  
