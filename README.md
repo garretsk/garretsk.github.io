@@ -78,7 +78,7 @@ Jan 2025 – Present*
 
 **Portland State University** — *Graduate School*  
 *2023 - 2024*  
-*GPA:* 4.0
+*GPA:* 4.0  
 
 Computer science graduate student. Maintained a 4.0 GPA. Learned a lot about AI/ML and cloud technologies. Left to gain real-world software development experience through a full-time role in industry.
 
@@ -86,6 +86,7 @@ Computer science graduate student. Maintained a 4.0 GPA. Learned a lot about AI/
 *2018 - 2022*  
 *Major:* Computer Science  
 *Minor:* Mathematics  
+
 *Awards:* Founder’s Scholarship (highest academic merit scholarship offered), ITA Scholar Athlete, Dean’s List
 
 ---
