@@ -1,4 +1,4 @@
-🚀 **AI Development Engineer** | 🎓 Computer Science  
+🚀 **AI Development Engineer @ Cerium** | 🎓 Computer Science  
 
 ---
 
@@ -58,7 +58,7 @@ A real-time **object detection system** trained on a custom dataset, optimized f
 
 ## 📜 Experience
 
-**Cerium Networks** — *[AI Development Engineer]*  
+**Cerium Networks** — *AI Development Engineer*  
 *01/2025 – Present*  
 - Developed, optimized, and deployed ML models for [domain/task].  
 - Worked on production-grade AI systems integrating with [cloud platform or product].  
@@ -68,8 +68,8 @@ A real-time **object detection system** trained on a custom dataset, optimized f
 
 ## 🎓 Education
 
-**Pacific University** — *[Computer Science]*  
-*Class of 2022*  
+**Pacific University** — *Computer Science*  
+*Class of 2022*
 - Relevant coursework: Artificial Intelligence, Machine Learning, Data Structures & Algorithms, Operating Systems, Databases  
 
 ---
