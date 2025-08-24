@@ -59,7 +59,7 @@ A real-time **object detection system** trained on a custom dataset, optimized f
 ## 📜 Experience
 
 **Cerium Networks** — *AI Development Engineer*  
-*01/2025 – Present*  
+January 2025 – Present*  
 - Developed, optimized, and deployed ML models for [domain/task].  
 - Worked on production-grade AI systems integrating with [cloud platform or product].  
 - Improved inference latency by X% and model accuracy by Y%.  
@@ -76,7 +76,6 @@ A real-time **object detection system** trained on a custom dataset, optimized f
 
 ## 📬 Get in Touch
 
-- 🌐 [Portfolio](https://garretsk.github.io)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/garret-katayama/) 
 - 🐙 [GitHub](https://github.com/yourusername)  
-
+- 🌐 [Portfolio](https://garretsk.github.io)  
