@@ -69,9 +69,9 @@ Jan 2025 – Present*
 ## 🎓 Education
 
 **Pacific University** — *Computer Science*  
-*Class of 2022*
-*Major:* Computer Science
-*Minor:* Mathematics
+*Class of 2022*  
+*Major:* Computer Science  
+*Minor:* Mathematics  
 *Awards:* Founder’s Scholarship (highest academic merit scholarship offered), ITA Scholar Athlete, Dean’s List
 
 ---
