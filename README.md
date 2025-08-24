@@ -25,7 +25,8 @@ I enjoy solving challenging problems at the intersection of **CS fundamentals an
 - JavaScript
 - SQL  
 
-**AI/ML Frameworks**  
+**Frameworks**  
+- FastAPI
 - LangChain/LangGraph
 - Keras
 - TensorFlow
