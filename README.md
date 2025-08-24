@@ -1,4 +1,3 @@
-# Garret Katayama
 
 🚀 **AI Development Engineer** | 🎓 Computer Science  
 
