@@ -83,7 +83,7 @@ A real-time **object detection system** trained on a custom dataset, optimized f
 
 ## 📬 Get in Touch
 
-- 🌐 [Portfolio Website](https://garretsk.github.io)  
+- 🌐 [Portfolio](https://garretsk.github.io)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/garret-katayama/) 
 - 🐙 [GitHub](https://github.com/yourusername)  
 - ✉️ garret.katayama@gmail.com
