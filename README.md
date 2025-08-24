@@ -88,7 +88,3 @@ A real-time **object detection system** trained on a custom dataset, optimized f
 - 🐙 [GitHub](https://github.com/yourusername)  
 - ✉️ garret.katayama@gmail.com
 
----
-
-💡 *“Building AI that empowers people and scales with technology.”*
-
