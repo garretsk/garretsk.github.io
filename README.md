@@ -11,7 +11,7 @@ My interests include:
 - ☁️ Cloud-based AI Deployment  
 - ⚡ High-performance & scalable systems  
 
-I enjoy solving challenging problems at the intersection of **CS fundamentals and cutting-edge AI research**.
+I enjoy solving challenging problems at the intersection of **CS fundamentals and cutting-edge AI developments**.
 
 ---
 
