@@ -68,8 +68,8 @@ A real-time **object detection system** trained on a custom dataset, optimized f
 
 ## 🎓 Education
 
-**B.Sc. Computer Science** — *[Pacific University]*  
-*MM/YYYY – MM/YYYY*  
+**Pacific University** — *[Computer Science]*  
+*Class of 2022*  
 - Relevant coursework: Artificial Intelligence, Machine Learning, Data Structures & Algorithms, Operating Systems, Databases  
 
 ---
