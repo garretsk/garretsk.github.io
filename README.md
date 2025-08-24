@@ -68,7 +68,10 @@ Jan 2025 – Present*
 
 ## 🎓 Education
 
-**Pacific University** — *Computer Science*  
+**Portland State University** — *Grad School*  
+*2023 - 2024*  
+
+**Pacific University** — *Bachelor's in CS*  
 *Class of 2022*  
 *Major:* Computer Science  
 *Minor:* Mathematics  
