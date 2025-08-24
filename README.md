@@ -69,8 +69,12 @@ A real-time **object detection system** trained on a custom dataset, optimized f
 ## 📜 Experience
 
 **Cerium Networks** — *AI Development Engineer*  
-Jan 2025 – Present*  
-- Software development focusing on AI integrations  
+Aug 2025 – Present  
+- Software development focusing on AI integrations
+
+**Cerium Networks** — *DevOps/AI Developer Apprentice*  
+Jan 2025 – Aug 2025  
+- Early career role in the Data & AI team  
 
 ---
 
