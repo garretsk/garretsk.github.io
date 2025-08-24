@@ -68,10 +68,12 @@ Jan 2025 – Present*
 
 ## 🎓 Education
 
-**Portland State University** — *Grad School*  
-*2023 - 2024*  
+**Portland State University** — *2023 - 2024*  
+*GPA:* 4.0
 
-**Pacific University** — *Bachelor's in CS*  
+Computer science graduate student. Maintained a 4.0 GPA. Learned a lot about AI/ML and cloud technologies. Left to gain real-world software development experience through a full-time role in industry.
+
+**Pacific University** — *2018-2022*  
 *Class of 2022*  
 *Major:* Computer Science  
 *Minor:* Mathematics  
