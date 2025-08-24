@@ -3,7 +3,7 @@
 ---
 
 ## 🧑‍💻 About Me
-I'm an AI Development Engineer with experience building intelligent systems, deploying machine learning models, and integrating AI solutions into production.  
+I'm an AI Development Engineer with 1 year of industry experience as well as extensive academic experience building intelligent systems, deploying machine learning models, and integrating AI into solutions.  
 
 My interests include:
 - 🤖 Artificial Intelligence & Machine Learning  
