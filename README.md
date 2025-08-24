@@ -1,6 +1,6 @@
 # 👋 Hi, I'm [Garret Katayama]
 
-🚀 **AI Development Engineer** | 🎓 Computer Science | 💡 Passionate about AI, ML, and Scalable Systems  
+🚀 **AI Development Engineer** | 🎓 Computer Science  
 
 ---
 
