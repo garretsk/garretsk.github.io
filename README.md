@@ -18,14 +18,24 @@ I enjoy solving challenging problems at the intersection of **CS fundamentals an
 ## 🔧 Skills
 
 **Languages**  
-- Python, C, C++, Java, JavaScript, SQL  
+- Python
+- C
+- C++
+- Java
+- JavaScript
+- SQL  
 
 **AI/ML Frameworks**  
-- LangChain/LangGraph, Keras, TensorFlow, PyTorch  
+- LangChain/LangGraph
+- Keras
+- TensorFlow
+- PyTorch  
 
 **Tools & Platforms**  
-- Docker, Git, GitHub Actions, Linux  
-- GCP, Azure 
+- Git
+- Docker
+- Linux  
+- Azure 
 
 **Other**  
 - Data Structures & Algorithms  
