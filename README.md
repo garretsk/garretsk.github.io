@@ -3,7 +3,7 @@
 ---
 
 ## 🧑‍💻 About Me
-I'm an AI Development Engineer with 1 year of industry experience as well as extensive academic experience building intelligent systems. In my role at Cerium, I develop AI workflows and applications. Before this, I was a graduate student studying Computer Science at Portland State University, where I gained exposure to advanced AI/ML concepts.  
+I'm an AI Development Engineer with 1 year of industry experience as well as extensive academic experience building intelligent systems. Before my current role, I was a graduate student studying Computer Science at Portland State University, where I gained exposure to advanced AI/ML concepts.  
 
 My interests include:
 - 🤖 Artificial Intelligence & Machine Learning  
