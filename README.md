@@ -15,28 +15,16 @@ My interests include:
 ## 🔧 Skills
 
 **Languages**  
-- Python
-- C/C++
-- Java
-- JavaScript
-- SQL  
+Python, C/C++, Java, JavaScript/Typescript, SQL  
 
 **Frameworks**  
-- FastAPI
-- LangChain/LangGraph
-- Keras
-- TensorFlow
-- PyTorch  
+FastAPI, LangChain/LangGraph, Keras, TensorFlow, PyTorch  
 
 **Tools & Platforms**  
-- Git
-- Docker
-- Linux  
-- Azure 
+Git, Docker, Linux, Azure 
 
 **Other**  
-- Data Structures & Algorithms  
-- REST APIs & Backend Development  
+Data Structures & Algorithms, REST APIs, Backend Development  
 
 ---
 
@@ -94,6 +82,6 @@ Computer science graduate student. Maintained a 4.0 GPA. Learned a lot about AI/
 
 ## 📬 Get in Touch
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/garret-katayama/) 
-- 🐙 [GitHub](https://github.com/garretsk)  
-- 🌐 [Portfolio](https://garretsk.github.io)  
+  💼 [LinkedIn](https://www.linkedin.com/in/garret-katayama/)  
+  🐙 [GitHub](https://github.com/garretsk)  
+  🌐 [Portfolio](https://garretsk.github.io)  
