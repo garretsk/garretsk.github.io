@@ -78,6 +78,14 @@ Computer science graduate student. Maintained a 4.0 GPA. Learned a lot about AI/
 
 *Awards:* Founder’s Scholarship (highest academic merit scholarship offered), ITA Scholar Athlete, Dean’s List
 
+**Boise High School**  
+
+National Merit Scholar: Finalist (top 0.5% of high school seniors nationwide)  
+
+Advanced Placement (AP): Computer Science, Physics, World History, Chemistry, Statistics, Environmental Science, Calculus, Biology  
+
+Treasure Valley Math and Science Center
+
 ---
 
 ## 📬 Get in Touch
