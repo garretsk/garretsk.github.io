@@ -93,5 +93,5 @@ Data Structures & Algorithms, REST APIs, Backend Development
 
 ## 📬 Get in Touch
 
-  💼 [LinkedIn](https://www.linkedin.com/in/garret-katayama/)  
   🐙 [GitHub](https://github.com/garretsk)  
+  💼 [LinkedIn](https://www.linkedin.com/in/garret-katayama/)  
