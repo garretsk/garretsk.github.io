@@ -77,16 +77,19 @@ Treasure Valley Math and Science Center
 
 ## 🔧 Skills
 
-**Languages**  
-Python, C/C++, Java, JavaScript/Typescript, SQL  
+**Main Languages:**  
+Python, C, C++, SQL  
 
-**Frameworks**  
+**I've Used These Before Too:**  
+Java, JavaScript, Typescript  
+
+**Frameworks:**  
 FastAPI, LangChain/LangGraph, Keras, TensorFlow, PyTorch  
 
-**Tools & Platforms**  
+**Tools & Platforms:**  
 Git, Docker, Linux, Azure  
 
-**Other**  
+**Other:**  
 Data Structures & Algorithms, REST APIs, Backend Development  
 
 ---
