@@ -80,7 +80,7 @@ Treasure Valley Math and Science Center
 **Main Languages:**  
 Python, C, C++, SQL  
 
-**I've Used These Before Too:**  
+**I've Used These Languages Before Too:**  
 Java, JavaScript, Typescript  
 
 **Frameworks:**  
