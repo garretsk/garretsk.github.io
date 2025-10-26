@@ -89,7 +89,7 @@ FastAPI, LangChain/LangGraph, Agent Service SDK, Keras, TensorFlow, PyTorch
 *OS* - Linux  
 *Source Control* - Git/GitHub  
 *Containerization* - Docker  
-*Cloud Platform* - Azure  
+*Cloud* - Azure  
 *Testing* - Postman
 
 ---
