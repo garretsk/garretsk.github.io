@@ -73,7 +73,7 @@ Treasure Valley Math and Science Center
 
 ---
 
-## 🔧 Skills
+## 🔧 Tools
 
 **Main Languages:**  
 Python, C, C++, SQL  
@@ -82,13 +82,14 @@ Python, C, C++, SQL
 Java, JavaScript, Typescript  
 
 **Frameworks:**  
-FastAPI, LangChain/LangGraph, Keras, TensorFlow, PyTorch  
+FastAPI, LangChain/LangGraph, Agent Service SDK, Keras, TensorFlow, PyTorch  
 
-**Tools & Platforms:**  
-Git, Docker, Linux, Azure  
-
-**Other:**  
-Data Structures & Algorithms, REST APIs, Backend Development  
+**Favorites:**  
+*IDE* - VS Code  
+*OS* - Linux  
+*Source Control* - Git/GitHub  
+*Containerization* - Docker  
+*Cloud Platform* - Azure  
 
 ---
 
