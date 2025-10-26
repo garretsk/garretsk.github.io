@@ -16,22 +16,18 @@ My interests include:
 
 ### 📊 Financial Data Processing
 Responsible for implementing transform and load aspects of an ETL pipeline.  
-- **Tech Stack:** Python, SQL
-- **Highlights:** Reduced processing time for the transform step of a particularly large relation from 2 days to 20 minutes using multiprocessing and batching of inefficient operations.
-
----
+- **Tech Stack:** Python, SQL  
+- **Highlights:** Reduced processing time for the transform step of a particularly large relation from 2 days to 20 minutes using multiprocessing and batching of inefficient operations.  
 
 ### 🧠 AI Command Line Assistant
 Developed a Retrieval Augmented Generation and tooling AI agent to assist with Linux command line activities. The AI agent was developed using LangChain and given access to tools that safely allowed it to assist with code execution and development, command execution, hash cracking, network mapping, and other command line activities.  
-- **Tech Stack:** Python, LangChain, Linux
-- **Highlights:** Artificial Intelligence (AI), Retrieval-Augmented Generation (RAG), Multi-agent Systems
-
----
+- **Tech Stack:** Python, LangChain, Linux  
+- **Highlights:** Artificial Intelligence (AI), Retrieval-Augmented Generation (RAG), Multi-agent Systems  
 
 ### 👁️ Neural Net for Collision Detection
 Trained a neural net with PyTorch to detect imminent collisions and safely maneuver a robot through a simulated Pymunk environment.  
-- **Tech Stack:** Python, PyTorch
-- **Highlights:** Machine Learning
+- **Tech Stack:** Python, PyTorch  
+- **Highlights:** Machine Learning  
 
 ---
 
