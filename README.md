@@ -79,7 +79,7 @@ Treasure Valley Math and Science Center
 Python, C, C++, SQL  
 
 **I've Used These Languages Before Too:**  
-Java, JavaScript, Typescript  
+Java, Typescript, JavaScript  
 
 **Frameworks:**  
 FastAPI, LangChain/LangGraph, Agent Service SDK, Keras, TensorFlow, PyTorch  
