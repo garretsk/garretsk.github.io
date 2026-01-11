@@ -36,9 +36,9 @@ Trained a neural net with PyTorch to detect imminent collisions and safely maneu
 **Cerium Networks** — *AI Development Engineer*  
 Aug 2025 – Present  
 - Software development focusing on AI integrations  
-- Connecting enterprise data sources to generate AI insights  
-- Built out CI/CD pipelines to deploy AI-powered applications onto our existing on-prem Kubernetes cluster  
-- Sole developer of a Data and AI centric marketing site aimed at promoting services for clients  
+- Most work is in Python with Azure SDKs and deployed to a mix of Azure cloud and on-prem infrastructure  
+- A significant part of the role involves building CI/CD pipelines  
+- We use Azure DevOps for source control and agile collaboration  
 
 **Cerium Networks** — *DevOps/AI Developer Apprentice*  
 Jan 2025 – Aug 2025  
