@@ -1,11 +1,11 @@
-🚀 **AI Development Engineer @ Cerium** | 🎓 **Computer Science**  
+🚀 **AI Development Engineer @ Cerium** | 📚 **PSU College of Engineering and Computer Science (graduate school - unfinished)** | 🎓 **Pacific University ‘22**  
 
 ---
 
 ## 🧑‍💻 About Me
-I'm an AI Development Engineer with 1 year of industry experience as well as extensive academic experience building intelligent systems. Before my current role, I was a graduate student studying Computer Science at Portland State University, where I gained exposure to advanced AI/ML concepts.  
+I'm an AI Development Engineer (essentially a Software Development Engineer, but focusing on AI integrations) with 1 year of industry experience as well as extensive academic experience building intelligent systems. Before my current role, I was a graduate student studying Computer Science at Portland State University, where I gained exposure to advanced AI/ML concepts.  
 
-My interests include:
+My interests include: 
 - 🤖 Artificial Intelligence  
 - 🧩 Machine Learning & Deep Learning  
 - ⚡ High-performance & Scalable Systems  
